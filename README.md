@@ -56,6 +56,7 @@ npm run preview
 1. Push the repo to GitHub
 2. Import the project on [vercel.com](https://vercel.com)
 3. Vercel auto-detects Vite — click Deploy
+4. Deployed link: https://koin-x-tax-loss-harvesting-five.vercel.app/
 
 ### Netlify
 
@@ -63,6 +64,7 @@ npm run preview
 2. Connect repo on [netlify.com](https://netlify.com)
 3. Build command: `npm run build`
 4. Publish directory: `dist`
+5. Deployed link: https://extraordinary-pixie-9886ac.netlify.app
 
 ## Project Structure
 
@@ -117,8 +119,4 @@ Savings = difference between the two realised amounts.
 
 Deploy your instance and add the link here:
 
-`https://your-deployment-url.vercel.app`
-
-## License
-
-MIT
+`(https://koin-x-tax-loss-harvesting-five.vercel.app/)`
